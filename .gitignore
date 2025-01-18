@@ -1,0 +1,9 @@
+build/
+*.aux
+*.fdb_latexmk
+*.fls
+*.gaux
+*.glog
+*.gtex
+*.log
+*.pdf
